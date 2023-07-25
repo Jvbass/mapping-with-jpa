@@ -6,8 +6,8 @@ En Spring Boot, el mapeo de clases con JPA (Java Persistence API) es una forma d
 
 ## Como usar
 
--- Clona o descarga el proyecto
--- Importalo en tu IDE favorito
+-  Clona o descarga el proyecto.
+-  Importalo en tu IDE favorito
 -- Configura la conexion a la base de datos en el archivo application.properties que se encuentra en la ruta src/main/resources
 -- Crea la base de datos segun el nombre que indica en el archivo application.properties
 -- Ejecuta el proyecto desde la clase SpringbootStudentsApplication
